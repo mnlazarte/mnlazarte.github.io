@@ -77,13 +77,13 @@ paginate:              10
 paginate_path:         /:num/
 
 #check if this solves the actualization
-future: true
+#future: true
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
