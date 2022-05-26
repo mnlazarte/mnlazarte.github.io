@@ -76,6 +76,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+#check if this solves the actualization
+future: true
 
 # Theme
 # ---------------------------------------------------------------------------------------
